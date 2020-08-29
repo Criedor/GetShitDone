@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GetShitDone"
+    }
+  },
+  "defaultProject": "GetShitDone",
+  "cli": {
+    "analytics": "5a1975b5-b37f-4e52-96f2-b59b865fb42e"
+  }
 }
